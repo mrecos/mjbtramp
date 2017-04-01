@@ -5,6 +5,7 @@ author:
 - Elspeth Hayes
 - Chris Clarkson
 - Richard Fullagar
+- Matt Harris
 date: '`r Sys.Date()`'
 output:
    bookdown::word_document2:
